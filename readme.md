@@ -6,15 +6,17 @@ While studying Causal Discovery, I found that there were few proper code impleme
 
 I've shared my code for the people who prefer to study while implementing the code themselves, rather than relying on pre-existing package. I recommend following the implementation procedure outlined below. I hope that my work will be helpful. 😁
 
-  
-   
+<br>
+<br>
+
 ## **I recommend it to people like this!**
 
 - **Who wants to understand Causal Discovery algorithms while implementing them** 👦
 - **Who wants to implement their own algorithm by modifying pre-existing algorithms** 👩
 
-  
-   
+<br>
+<br>
+
 ## Implementation Procedure
 
 
@@ -27,16 +29,18 @@ I've shared my code for the people who prefer to study while implementing the co
 | DAG Pattern_base | Foundation of DAG Pattern | [Click!](https://colab.research.google.com/drive/1cDxmQPL-v3egbrZVsklQDzbukHNVgeVq?usp=share_link) |
 | DAG Pattern_d_separation | Methods related to d-separation | [Click!](https://colab.research.google.com/drive/1GZ6lX4RzSzSJriIe5_t-tRYZd4YULxoF?usp=share_link) |
 | DAG Pattern_visualization | Visualization (Force-directed graph drawing) | [Click!](https://colab.research.google.com/drive/1hCDTh3zttekN6YFuvDiQpHd3YMrX7cIU?usp=share_link) |
-  
-  
+
+<br>
+
 ### 2️⃣ Nonparametric CI Test
 
 | Title | Implementation | Notebook url |
 | --- | --- | --- |
 | Nonparametric CI Test_MI | Conditional Mutual Information | [Click!](https://colab.research.google.com/drive/1n-62Din_vq5TY9zFrjxnXvK4iM2XQw9j?usp=share_link) |
 | Nonparametric CI Test_KCIT | KCIT, Kernel-based Conditional Independence Test | [Click!](https://colab.research.google.com/drive/10Y37wFC4v3cl_7WNFheeUuH4iwKKREgq?usp=share_link) |
-  
-  
+
+<br>
+
 ### 3️⃣ **Constraint-based Algorithm**
 
 | Title | Implementation | Notebook url |
