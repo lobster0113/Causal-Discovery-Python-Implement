@@ -6,11 +6,13 @@ While studying Causal Discovery, I found that there were few proper code impleme
 
 I've shared my code for the people who prefer to study while implementing the code themselves, rather than relying on pre-existing package. I recommend following the implementation procedure outlined below. I hope that my work will be helpful. 😁
 
+
 ## **I recommend it to people like this!**
 
 
 - **Who wants to understand Causal Discovery algorithms while implementing them** 👦
 - **Who wants to implement their own algorithm by modifying pre-existing algorithms** 👩
+
 
 ## Implementation Procedure
 
