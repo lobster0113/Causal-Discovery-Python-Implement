@@ -1,7 +1,5 @@
 # Causal Discovery Python Implement
 
----
-
 Hello there! 👋 I'm a student studying Causal Discovery, and I've created this page to share my implemented codes. All the codes here have been implemented by using only *numpy, scipy, pandas*, and *matplotlib*.
 
 While studying Causal Discovery, I found that there were few proper code implementation examples available online. Most of the code online used pre-existing package, such as networkx, dowhy, cdt, etc., which made it difficult to understand how the underlying algorithm **really** worked. (There is also a way to view the package code, but it is usually too complicated to read. 😓) As a result, I decided to implement the code myself based on research papers and books.
@@ -10,14 +8,12 @@ I've shared my code for the people who prefer to study while implementing the co
 
 ## **I recommend it to people like this!**
 
----
 
 - **Who wants to understand Causal Discovery algorithms while implementing them** 👦
 - **Who wants to implement their own algorithm by modifying pre-existing algorithms** 👩
 
 ## Implementation Procedure
 
----
 
 ### 1️⃣ DAG Pattern
 
