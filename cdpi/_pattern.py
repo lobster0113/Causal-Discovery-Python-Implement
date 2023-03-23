@@ -314,7 +314,7 @@ class pattern:
         pairs = combinations(self.vertex, 2)
         for x, _ in pairs:
             v_not_x_and_some_v = list(self.vertex - {x, _})
-            power_set = chain(*[combinations(v_not_x_and_some_v, n) for n in range(len(v_not_x_and_some_v))])
+            power_set = chain(*[combinations(v_not_x_and_some_v, n) for n in range(len(v_not_x_and_some_v) + 1)])
 
             for z in power_set:
                 z = set(z)
