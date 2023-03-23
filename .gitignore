@@ -1,0 +1,7 @@
+/build
+/dist
+/cdpi.egg-info
+/Pipfile
+/Pipfile.lock
+/setup.py
+/upload.txt
