@@ -1,4 +1,4 @@
-# Causal Discovery Python Implement
+# Causal Discovery Python Implementation
 
 Hello there! 👋 I'm a student studying Causal Discovery, and I've created this page to share my implemented codes. All the codes here have been implemented by using only *numpy, scipy, pandas*, and *matplotlib*.
 
