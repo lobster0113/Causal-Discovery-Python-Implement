@@ -44,3 +44,13 @@ I've shared my code for the people who prefer to study while implementing the co
 | Constraint-based Algorithm_basic | Basic algorithm of Constraint-based Algorithm | [Click!](https://colab.research.google.com/drive/1Rrpdw1IlPNKN_yVqc1ZSFx_fzKfHdDtD?usp=share_link) |
 | Constraint-based Algorithm_pc | PC algorithm | [Click!](https://colab.research.google.com/drive/1jhauXC8LsdViE8R58-9GuPRxdcNUUBC2?usp=share_link) |
 | Constraint-based Algorithm_cpc | Conservative PC algorithm | [Click!](https://colab.research.google.com/drive/1NZMTB-jG8AaOBFiRdxGOohn2Q7j5tq31?usp=share_link) |
+
+
+## Reference
+[1] Geiger, D., Verma, T., &#38; Pearl, J. (1990). d-Separation: From Theorems to Algorithms. In <i>Machine Intelligence and Pattern Recognition</i> (Vol. 10, Issue C)  
+[2] Zhang, K., Peters, J., Janzing, D., &#38; Schölkopf, B. (2011). Kernel-based conditional independence test and application in causal discovery. <i>Proceedings of the 27th Conference on Uncertainty in Artificial Intelligence, UAI 2011</i>  
+[3] Metropolitan. (2004). Learning Bayesian Networks. chapter 10.  
+[4] Verma, T., Pearl, J. (1990). On the Equivalence of Causal Models. <i>Appears in Proceedings of the Sixth Conference on Uncertainty in Artificial Intelligence (UAI1990)</i>.  
+[5] Meek, C. (1995). Causal inference and causal explanation with background knowledge. <i>Conference on Uncertainty in Artificial Intelligence.</i>  
+[6] Ramsey, J., Spirtes, P., &#38; Zhang, J. (2006). Adjacency-faithfulness and conservative causal inference. <i>Proceedings of the 22nd Conference on Uncertainty in Artificial Intelligence, UAI 2006</i>.  
+[7] Peter, J., Zanzing, D., Schölkopf, B. (2017). Elements of Causal Inference. <i>The MIT Press</i>  
